@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Cedric/Documents/NetBeansProjects/ProjetJavaFX/src/modele/Game.java</file>
+            <file>file:/C:/Users/Cedric/Documents/NetBeansProjects/ProjetJavaFX/src/modele/Periodicite.java</file>
+            <file>file:/C:/Users/Cedric/Documents/NetBeansProjects/ProjetJavaFX/src/modele/PeriodiciteBird.java</file>
+            <file>file:/C:/Users/Cedric/Documents/NetBeansProjects/ProjetJavaFX/ressources/view/fenetrePrincipal.fxml</file>
+            <file>file:/C:/Users/Cedric/Documents/NetBeansProjects/ProjetJavaFX/src/modele/ThreadModificationPlayerPos.java</file>
+            <file>file:/C:/Users/Cedric/Documents/NetBeansProjects/ProjetJavaFX/src/modele/GameManager.java</file>
+            <file>file:/C:/Users/Cedric/Documents/NetBeansProjects/ProjetJavaFX/src/viewModel/ViewModelBalle.java</file>
+            <file>file:/C:/Users/Cedric/Documents/NetBeansProjects/ProjetJavaFX/src/modele/PeriodiciteObstacle.java</file>
+            <file>file:/C:/Users/Cedric/Documents/NetBeansProjects/ProjetJavaFX/src/viewModel/ViewModelObstacle.java</file>
+            <file>file:/C:/Users/Cedric/Documents/NetBeansProjects/ProjetJavaFX/src/modele/Armes/Arme.java</file>
+            <file>file:/C:/Users/Cedric/Documents/NetBeansProjects/ProjetJavaFX/src/modele/obstacle/Bird.java</file>
+            <file>file:/C:/Users/Cedric/Documents/NetBeansProjects/ProjetJavaFX/src/modele/Armes/Awp.java</file>
+            <file>file:/C:/Users/Cedric/Documents/NetBeansProjects/ProjetJavaFX/src/viewModel/ViewModelArme.java</file>
+            <file>file:/C:/Users/Cedric/Documents/NetBeansProjects/ProjetJavaFX/src/modele/PeriodiciteArme.java</file>
+            <file>file:/C:/Users/Cedric/Documents/NetBeansProjects/ProjetJavaFX/src/modele/ThreadGenerationWeaponRandom.java</file>
+            <file>file:/C:/Users/Cedric/Documents/NetBeansProjects/ProjetJavaFX/src/controller/fenetrePrincipalController.java</file>
+            <file>file:/C:/Users/Cedric/Documents/NetBeansProjects/ProjetJavaFX/src/modele/Player.java</file>
+            <file>file:/C:/Users/Cedric/Documents/NetBeansProjects/ProjetJavaFX/src/modele/Sound.java</file>
+            <file>file:/C:/Users/Cedric/Documents/NetBeansProjects/ProjetJavaFX/src/viewModel/ViewModelGame.java</file>
+            <file>file:/C:/Users/Cedric/Documents/NetBeansProjects/ProjetJavaFX/src/modele/Armes/Eagle.java</file>
+            <file>file:/C:/Users/Cedric/Documents/NetBeansProjects/ProjetJavaFX/src/modele/Armes/Balle.java</file>
+        </group>
+    </open-files>
+</project-private>
